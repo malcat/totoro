@@ -1,0 +1,13 @@
+#
+# Folders
+
+.vs/
+.idea/
+
+bin/
+obj/
+
+#
+# Files
+
+*.user
